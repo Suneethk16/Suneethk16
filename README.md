@@ -26,8 +26,6 @@
 <h2>⚡️ Where to find me</h2>
 <p><a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/suneeth-k-9b3794191/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a>
 <a target="_blank" href="https://www.instagram.com/https://www.instagram.com/_suneeth_k/" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
-
-<p><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Suneethk16" alt="Suneethk16" /></a></p>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/suneethk16/suneethk16/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/suneethk16/suneethk16/output/github-snake.svg" />
